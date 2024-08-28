@@ -1,2 +1,2 @@
-![quiz1](https://github.com/pratikAD-2003/Quiz-TIme/assets/162031829/c7450087-ff1b-4a6f-b52a-a33d7c8ee4ee)
-![quiz2](https://github.com/pratikAD-2003/Quiz-TIme/assets/162031829/3567c258-8acf-4554-b0bc-6e94b4ee44e7)
+![Quiz_1](https://github.com/user-attachments/assets/36d9ec52-c517-4183-b5d3-23298df28d76)
+![Quiz_2](https://github.com/user-attachments/assets/015747df-b3d6-4583-892e-db5ad8721d70)
